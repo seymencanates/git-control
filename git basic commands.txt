@@ -1,0 +1,27 @@
+
+
+First of all we need to understand
+
+WHAT IS GIT?
+
+Git is: 
+    A popular version control system. It was created for the checks versions , updates , who made this changes
+    and updates and in addition to we can also track our code changes since we began to the project.
+
+We can manage project with repositories
+We can clone a project to work lo the local area
+We can control and track changes with stacking and committing
+Branch and merge allows to work on the different parts of project
+We can pull the latest version of project to a local copy
+Or push local updates to main project
+
+
+I will use built-in terminal for the track changes.
+
+
+
+git --version
+
+checks and sgow the version for the github. U can check your version and look at the documentation for the
+newest features of the git
+

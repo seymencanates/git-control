@@ -1,0 +1,21 @@
+
+
+For the adjust username and email we should use these commands:
+
+    git config --global user.name
+    git config --global user.email
+
+for creating a new directory u should use
+
+    mkdir myproject
+
+for change the current working directory
+
+    cd myproject
+
+First of all we need to INITIALIZE the git
+We can do this with:
+    git init 
+function
+
+
